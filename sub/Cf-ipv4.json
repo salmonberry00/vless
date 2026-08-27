@@ -51,53 +51,53 @@
     },
     {
         "colo": "Default",
-        "ip": "198.41.211.48",
-        "latency": 71,
+        "ip": "104.17.83.156",
+        "latency": 137,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2026-08-27 04:30:51"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.19.51.214",
+        "latency": 138,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2026-08-27 03:51:08"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.17.191.210",
+        "latency": 138,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 285,
+        "time": "2026-08-27 03:11:07"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.18.110.187",
+        "latency": 137,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 250,
-        "time": "2026-08-25 20:11:00"
+        "time": "2026-08-27 04:50:50"
     },
     {
         "colo": "Default",
-        "ip": "104.18.172.84",
-        "latency": 144,
+        "ip": "104.16.173.87",
+        "latency": 139,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 235,
-        "time": "2026-08-25 20:31:33"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.16.16.72",
-        "latency": 142,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 225,
-        "time": "2026-08-25 20:11:17"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.16.236.52",
-        "latency": 143,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 220,
-        "time": "2026-08-25 20:31:17"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.17.191.81",
-        "latency": 141,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 205,
-        "time": "2026-08-25 19:31:35"
+        "speed": 250,
+        "time": "2026-08-27 02:51:09"
     },
     {
         "colo": "Default",
