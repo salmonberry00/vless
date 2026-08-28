@@ -51,53 +51,53 @@
     },
     {
         "colo": "Default",
-        "ip": "104.17.83.156",
-        "latency": 137,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2026-08-27 04:30:51"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.19.51.214",
-        "latency": 138,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2026-08-27 03:51:08"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.17.191.210",
-        "latency": 138,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 285,
-        "time": "2026-08-27 03:11:07"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.18.110.187",
-        "latency": 137,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 250,
-        "time": "2026-08-27 04:50:50"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.16.173.87",
+        "ip": "104.17.51.14",
         "latency": 139,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2026-08-28 04:31:18"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.17.31.157",
+        "latency": 141,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2026-08-28 04:11:35"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.17.236.112",
+        "latency": 139,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2026-08-28 05:31:17"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.223.149",
+        "latency": 66,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 290,
+        "time": "2026-08-28 05:10:45"
+    },
+    {
+        "colo": "Default",
+        "ip": "162.159.246.132",
+        "latency": 138,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
         "speed": 250,
-        "time": "2026-08-27 02:51:09"
+        "time": "2026-08-28 03:30:46"
     },
     {
         "colo": "Default",
